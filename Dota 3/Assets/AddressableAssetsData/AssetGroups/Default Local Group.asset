@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 98f74349e0a76df42a2a2f111d8d2c2d
+  m_SerializeEntries:
+  - m_GUID: 1a0ec138a94adca4695f4ea28ffd429f
+    m_Address: SmallSpotCreep
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00ab95a1fd0974a4ab61d6ab89624d7d
+    m_Address: Ember Spirit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fe909c66fcde00d44ade1137526d4d77, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2626db29f5ce44741988e9e6a9650b74, type: 2}
+    - {fileID: 11400000, guid: aad603b294b936040ae0ee530c8f0769, type: 2}
